@@ -19,4 +19,3 @@ def endsPy(input):
 	else:
 		return False
 
-print(endsPy("hellopy"))
